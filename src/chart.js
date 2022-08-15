@@ -71,4 +71,4 @@ export default function Chart() {
     </React.Fragment>
   );
 }
-export { Chart };
+
